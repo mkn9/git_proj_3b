@@ -23,8 +23,18 @@
       <file leaf-file-name="proj_4_module_a1.py" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/proj_4_module_a1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/module_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -44,13 +54,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/module_2.py" />
         <option value="$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/proj_4_module_a1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="-1369" />
+    <option name="x" value="115" />
+    <option name="y" value="-1335" />
     <option name="width" value="1040" />
     <option name="height" value="627" />
   </component>
@@ -81,6 +92,16 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proj_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proj_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="proj_4" />
@@ -256,7 +277,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="-1369" width="1040" height="627" extended-state="0" />
+    <frame x="115" y="-1335" width="1040" height="627" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5942308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -294,13 +315,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/proj_4_module_a1.py">
+    <entry file="file://$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/module_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/other/PC_Notes/git_tutorial/proj_4/proj_4_pkg/proj_4_module_a1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
